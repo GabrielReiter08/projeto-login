@@ -73,6 +73,10 @@
         padding: 15px;
     }
 
+    div.campo > input {
+        background-color: lightgray;
+    }
+
     form > a.botao{
         display: block;
         text-align: center;
@@ -90,8 +94,6 @@
         color: white;
     }
 
-    div.campo > input {
-        background-color: lightgray;
-    }
+   
 
 }
